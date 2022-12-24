@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        app:key="themeChanger"
+        app:title="Dark Theme" />
+
+    <EditTextPreference
+        app:key="userName"
+        app:title="Your name"
+        app:useSimpleSummaryProvider="true"
+        />
+
+</androidx.preference.PreferenceScreen>

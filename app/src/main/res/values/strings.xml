@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="settings_label">Settings</string>
+    <string name="button_request_name">Request</string>
+</resources>
